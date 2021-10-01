@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Mellow Dream's slide!"
 ---
-HELLO!
+Gnarly! Radical!
 Use the left arrow to go back
